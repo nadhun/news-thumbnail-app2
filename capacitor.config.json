@@ -1,0 +1,5 @@
+{
+  "appId": "com.yourcompany.newsthumbnailmaker",
+  "appName": "News Thumbnail Maker",
+  "webDir": "dist"
+}
